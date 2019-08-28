@@ -1,4 +1,4 @@
-# gender-classification-sentiment-analysis NLP
+# gender-bias-sentiment-analysis NLP
 
 gender bias in wikipedia community where men related article is always dominant 
 ![Screen Shot 2019-08-28 at 12 53 26 PM](https://user-images.githubusercontent.com/54539761/63849732-f4253c80-c992-11e9-9df9-f7fc5dddc43a.png)
